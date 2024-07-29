@@ -1,1 +1,1 @@
-# background-generator.github.io
+# background-generator.github
